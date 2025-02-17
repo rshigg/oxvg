@@ -56,6 +56,7 @@ criterion = { version = "0.5", features = ["html_reports"] }
 env_logger = "0.11"
 insta = "1.42"
 pretty_assertions = "1.4"
+extism-pdk = "1.3.0"
 
 [profile.bench]
 inherits = "release"

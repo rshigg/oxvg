@@ -31,3 +31,4 @@ log = { workspace = true }
 serde = { workspace = true }
 serde_json = { workspace = true }
 ignore = "0.4"
+extism-pdk = "1.3.0"
